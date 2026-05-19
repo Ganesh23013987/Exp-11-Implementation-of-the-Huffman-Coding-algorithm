@@ -23,6 +23,8 @@ calculate frequency of occurence.
 print the characters and its huffmancode.
 
 ## Program
+### NAME: GANESH D
+### REG.NO: 212223240035
 
 ```python
 # Step 1: Get the input string
