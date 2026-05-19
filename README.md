@@ -26,7 +26,7 @@ print the characters and its huffmancode.
 
 ```python
 # Step 1: Get the input string
-input_string = "Ganesh D"  # Example input string
+input_string = "Ganesh D"  
 
 # Step 2: Calculate frequency of each character in the input string
 frequency = {}
