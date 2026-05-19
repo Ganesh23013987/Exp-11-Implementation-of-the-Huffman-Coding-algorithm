@@ -26,7 +26,7 @@ print the characters and its huffmancode.
 
 ```python
 # Step 1: Get the input string
-input_string = "Ganesh D"  
+input_string = "Ganesh"  
 
 # Step 2: Calculate frequency of each character in the input string
 frequency = {}
@@ -78,7 +78,7 @@ for char, code in huffman_codes.items():
 
 ## Output:
 
-<img width="649" height="282" alt="image" src="https://github.com/user-attachments/assets/5f466a62-04c9-42c4-970b-844e986019f2" />
+<img width="852" height="342" alt="image" src="https://github.com/user-attachments/assets/a721ccbc-a748-4b3f-8899-11ca7c35ec9a" />
 
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
